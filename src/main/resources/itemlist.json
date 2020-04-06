@@ -1,0 +1,3082 @@
+[
+  {
+    "legacyId": 0,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "AIR"
+    ]
+  },
+  {
+    "legacyId": 1,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "STONE"
+    ]
+  },
+  {
+    "legacyId": 2,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "GRASS"
+    ]
+  },
+  {
+    "legacyId": 3,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "DIRT"
+    ]
+  },
+  {
+    "legacyId": 4,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "COBBLESTONE"
+    ]
+  },
+  {
+    "legacyId": 5,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "WOOD"
+    ]
+  },
+  {
+    "legacyId": 6,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "SAPLING"
+    ]
+  },
+  {
+    "legacyId": 7,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "BEDROCK"
+    ]
+  },
+  {
+    "legacyId": 8,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "WATER"
+    ]
+  },
+  {
+    "legacyId": 9,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "STATIONARY_WATER"
+    ]
+  },
+  {
+    "legacyId": 10,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "LAVA"
+    ]
+  },
+  {
+    "legacyId": 11,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "STATIONARY_LAVA"
+    ]
+  },
+  {
+    "legacyId": 12,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "SAND"
+    ]
+  },
+  {
+    "legacyId": 13,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "GRAVEL"
+    ]
+  },
+  {
+    "legacyId": 14,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "GOLD_ORE"
+    ]
+  },
+  {
+    "legacyId": 15,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "IRON_ORE"
+    ]
+  },
+  {
+    "legacyId": 16,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "COAL_ORE"
+    ]
+  },
+  {
+    "legacyId": 17,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "LOG"
+    ]
+  },
+  {
+    "legacyId": 18,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "LEAVES"
+    ]
+  },
+  {
+    "legacyId": 19,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "SPONGE"
+    ]
+  },
+  {
+    "legacyId": 20,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "GLASS"
+    ]
+  },
+  {
+    "legacyId": 21,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "LAPIS_ORE"
+    ]
+  },
+  {
+    "legacyId": 22,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "LAPIS_BLOCK"
+    ]
+  },
+  {
+    "legacyId": 23,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "DISPENSER"
+    ]
+  },
+  {
+    "legacyId": 24,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "SANDSTONE"
+    ]
+  },
+  {
+    "legacyId": 25,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "NOTE_BLOCK"
+    ]
+  },
+  {
+    "legacyId": 26,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "BED_BLOCK"
+    ]
+  },
+  {
+    "legacyId": 27,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "POWERED_RAIL"
+    ]
+  },
+  {
+    "legacyId": 28,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "DETECTOR_RAIL"
+    ]
+  },
+  {
+    "legacyId": 29,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "PISTON_STICKY_BASE"
+    ]
+  },
+  {
+    "legacyId": 30,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "WEB"
+    ]
+  },
+  {
+    "legacyId": 31,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "LONG_GRASS"
+    ]
+  },
+  {
+    "legacyId": 32,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "DEAD_BUSH"
+    ]
+  },
+  {
+    "legacyId": 33,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "PISTON_BASE"
+    ]
+  },
+  {
+    "legacyId": 34,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "PISTON_EXTENSION"
+    ]
+  },
+  {
+    "legacyId": 35,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "WOOL"
+    ]
+  },
+  {
+    "legacyId": 36,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "PISTON_MOVING_PIECE"
+    ]
+  },
+  {
+    "legacyId": 37,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "YELLOW_FLOWER"
+    ]
+  },
+  {
+    "legacyId": 38,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "RED_ROSE"
+    ]
+  },
+  {
+    "legacyId": 39,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "BROWN_MUSHROOM"
+    ]
+  },
+  {
+    "legacyId": 40,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "RED_MUSHROOM"
+    ]
+  },
+  {
+    "legacyId": 41,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "GOLD_BLOCK"
+    ]
+  },
+  {
+    "legacyId": 42,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "IRON_BLOCK"
+    ]
+  },
+  {
+    "legacyId": 43,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "DOUBLE_STEP"
+    ]
+  },
+  {
+    "legacyId": 44,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "STEP"
+    ]
+  },
+  {
+    "legacyId": 45,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "BRICK"
+    ]
+  },
+  {
+    "legacyId": 46,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "TNT"
+    ]
+  },
+  {
+    "legacyId": 47,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "BOOKSHELF"
+    ]
+  },
+  {
+    "legacyId": 48,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "MOSSY_COBBLESTONE"
+    ]
+  },
+  {
+    "legacyId": 49,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "OBSIDIAN"
+    ]
+  },
+  {
+    "legacyId": 50,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "TORCH"
+    ]
+  },
+  {
+    "legacyId": 51,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "FIRE"
+    ]
+  },
+  {
+    "legacyId": 52,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "MOB_SPAWNER"
+    ]
+  },
+  {
+    "legacyId": 53,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "WOOD_STAIRS"
+    ]
+  },
+  {
+    "legacyId": 54,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "CHEST"
+    ]
+  },
+  {
+    "legacyId": 55,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "REDSTONE_WIRE"
+    ]
+  },
+  {
+    "legacyId": 56,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "DIAMOND_ORE"
+    ]
+  },
+  {
+    "legacyId": 57,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "DIAMOND_BLOCK"
+    ]
+  },
+  {
+    "legacyId": 58,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "WORKBENCH"
+    ]
+  },
+  {
+    "legacyId": 59,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "CROPS"
+    ]
+  },
+  {
+    "legacyId": 60,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "SOIL"
+    ]
+  },
+  {
+    "legacyId": 61,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "FURNACE"
+    ]
+  },
+  {
+    "legacyId": 62,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "BURNING_FURNACE"
+    ]
+  },
+  {
+    "legacyId": 63,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "SIGN_POST"
+    ]
+  },
+  {
+    "legacyId": 64,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "WOODEN_DOOR"
+    ]
+  },
+  {
+    "legacyId": 65,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "LADDER"
+    ]
+  },
+  {
+    "legacyId": 66,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "RAILS"
+    ]
+  },
+  {
+    "legacyId": 67,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "COBBLESTONE_STAIRS"
+    ]
+  },
+  {
+    "legacyId": 68,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "WALL_SIGN"
+    ]
+  },
+  {
+    "legacyId": 69,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "LEVER"
+    ]
+  },
+  {
+    "legacyId": 70,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "STONE_PLATE"
+    ]
+  },
+  {
+    "legacyId": 71,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "IRON_DOOR_BLOCK"
+    ]
+  },
+  {
+    "legacyId": 72,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "WOOD_PLATE"
+    ]
+  },
+  {
+    "legacyId": 73,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "REDSTONE_ORE"
+    ]
+  },
+  {
+    "legacyId": 74,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "GLOWING_REDSTONE_ORE"
+    ]
+  },
+  {
+    "legacyId": 75,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "REDSTONE_TORCH_OFF"
+    ]
+  },
+  {
+    "legacyId": 76,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "REDSTONE_TORCH_ON"
+    ]
+  },
+  {
+    "legacyId": 77,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "STONE_BUTTON"
+    ]
+  },
+  {
+    "legacyId": 78,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "SNOW"
+    ]
+  },
+  {
+    "legacyId": 79,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "ICE"
+    ]
+  },
+  {
+    "legacyId": 80,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "SNOW_BLOCK"
+    ]
+  },
+  {
+    "legacyId": 81,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "CACTUS"
+    ]
+  },
+  {
+    "legacyId": 82,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "CLAY"
+    ]
+  },
+  {
+    "legacyId": 83,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "SUGAR_CANE_BLOCK"
+    ]
+  },
+  {
+    "legacyId": 84,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "JUKEBOX"
+    ]
+  },
+  {
+    "legacyId": 85,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "FENCE"
+    ]
+  },
+  {
+    "legacyId": 86,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "PUMPKIN"
+    ]
+  },
+  {
+    "legacyId": 87,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "NETHERRACK"
+    ]
+  },
+  {
+    "legacyId": 88,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "SOUL_SAND"
+    ]
+  },
+  {
+    "legacyId": 89,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "GLOWSTONE"
+    ]
+  },
+  {
+    "legacyId": 90,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "PORTAL"
+    ]
+  },
+  {
+    "legacyId": 91,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "JACK_O_LANTERN"
+    ]
+  },
+  {
+    "legacyId": 92,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "CAKE_BLOCK"
+    ]
+  },
+  {
+    "legacyId": 93,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "DIODE_BLOCK_OFF"
+    ]
+  },
+  {
+    "legacyId": 94,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "DIODE_BLOCK_ON"
+    ]
+  },
+  {
+    "legacyId": 95,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "STAINED_GLASS"
+    ]
+  },
+  {
+    "legacyId": 96,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "TRAP_DOOR"
+    ]
+  },
+  {
+    "legacyId": 97,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "MONSTER_EGGS"
+    ]
+  },
+  {
+    "legacyId": 98,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "SMOOTH_BRICK"
+    ]
+  },
+  {
+    "legacyId": 99,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "HUGE_MUSHROOM_1"
+    ]
+  },
+  {
+    "legacyId": 100,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "HUGE_MUSHROOM_2"
+    ]
+  },
+  {
+    "legacyId": 101,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "IRON_FENCE"
+    ]
+  },
+  {
+    "legacyId": 102,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "THIN_GLASS"
+    ]
+  },
+  {
+    "legacyId": 103,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "MELON_BLOCK"
+    ]
+  },
+  {
+    "legacyId": 104,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "PUMPKIN_STEM"
+    ]
+  },
+  {
+    "legacyId": 105,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "MELON_STEM"
+    ]
+  },
+  {
+    "legacyId": 106,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "VINE"
+    ]
+  },
+  {
+    "legacyId": 107,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "FENCE_GATE"
+    ]
+  },
+  {
+    "legacyId": 108,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "BRICK_STAIRS"
+    ]
+  },
+  {
+    "legacyId": 109,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "SMOOTH_STAIRS"
+    ]
+  },
+  {
+    "legacyId": 110,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "MYCEL"
+    ]
+  },
+  {
+    "legacyId": 111,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "WATER_LILY"
+    ]
+  },
+  {
+    "legacyId": 112,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "NETHER_BRICK"
+    ]
+  },
+  {
+    "legacyId": 113,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "NETHER_FENCE"
+    ]
+  },
+  {
+    "legacyId": 114,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "NETHER_BRICK_STAIRS"
+    ]
+  },
+  {
+    "legacyId": 115,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "NETHER_WARTS"
+    ]
+  },
+  {
+    "legacyId": 116,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "ENCHANTMENT_TABLE"
+    ]
+  },
+  {
+    "legacyId": 117,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "BREWING_STAND"
+    ]
+  },
+  {
+    "legacyId": 118,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "CAULDRON"
+    ]
+  },
+  {
+    "legacyId": 119,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "ENDER_PORTAL"
+    ]
+  },
+  {
+    "legacyId": 120,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "ENDER_PORTAL_FRAME"
+    ]
+  },
+  {
+    "legacyId": 121,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "ENDER_STONE"
+    ]
+  },
+  {
+    "legacyId": 122,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "DRAGON_EGG"
+    ]
+  },
+  {
+    "legacyId": 123,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "REDSTONE_LAMP_OFF"
+    ]
+  },
+  {
+    "legacyId": 124,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "REDSTONE_LAMP_ON"
+    ]
+  },
+  {
+    "legacyId": 125,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "WOOD_DOUBLE_STEP"
+    ]
+  },
+  {
+    "legacyId": 126,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "WOOD_STEP"
+    ]
+  },
+  {
+    "legacyId": 127,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "COCOA"
+    ]
+  },
+  {
+    "legacyId": 128,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "SANDSTONE_STAIRS"
+    ]
+  },
+  {
+    "legacyId": 129,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "EMERALD_ORE"
+    ]
+  },
+  {
+    "legacyId": 130,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "ENDER_CHEST"
+    ]
+  },
+  {
+    "legacyId": 131,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "TRIPWIRE_HOOK"
+    ]
+  },
+  {
+    "legacyId": 132,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "TRIPWIRE"
+    ]
+  },
+  {
+    "legacyId": 133,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "EMERALD_BLOCK"
+    ]
+  },
+  {
+    "legacyId": 134,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "SPRUCE_WOOD_STAIRS"
+    ]
+  },
+  {
+    "legacyId": 135,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "BIRCH_WOOD_STAIRS"
+    ]
+  },
+  {
+    "legacyId": 136,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "JUNGLE_WOOD_STAIRS"
+    ]
+  },
+  {
+    "legacyId": 137,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "COMMAND"
+    ]
+  },
+  {
+    "legacyId": 138,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "BEACON"
+    ]
+  },
+  {
+    "legacyId": 139,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "COBBLE_WALL"
+    ]
+  },
+  {
+    "legacyId": 140,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "FLOWER_POT"
+    ]
+  },
+  {
+    "legacyId": 141,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "CARROT"
+    ]
+  },
+  {
+    "legacyId": 142,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "POTATO"
+    ]
+  },
+  {
+    "legacyId": 143,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "WOOD_BUTTON"
+    ]
+  },
+  {
+    "legacyId": 144,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "SKULL"
+    ]
+  },
+  {
+    "legacyId": 145,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "ANVIL"
+    ]
+  },
+  {
+    "legacyId": 146,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "TRAPPED_CHEST"
+    ]
+  },
+  {
+    "legacyId": 147,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "GOLD_PLATE"
+    ]
+  },
+  {
+    "legacyId": 148,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "IRON_PLATE"
+    ]
+  },
+  {
+    "legacyId": 149,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "REDSTONE_COMPARATOR_OFF"
+    ]
+  },
+  {
+    "legacyId": 150,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "REDSTONE_COMPARATOR_ON"
+    ]
+  },
+  {
+    "legacyId": 151,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "DAYLIGHT_DETECTOR"
+    ]
+  },
+  {
+    "legacyId": 152,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "REDSTONE_BLOCK"
+    ]
+  },
+  {
+    "legacyId": 153,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "QUARTZ_ORE"
+    ]
+  },
+  {
+    "legacyId": 154,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "HOPPER"
+    ]
+  },
+  {
+    "legacyId": 155,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "QUARTZ_BLOCK"
+    ]
+  },
+  {
+    "legacyId": 156,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "QUARTZ_STAIRS"
+    ]
+  },
+  {
+    "legacyId": 157,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "ACTIVATOR_RAIL"
+    ]
+  },
+  {
+    "legacyId": 158,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "DROPPER"
+    ]
+  },
+  {
+    "legacyId": 159,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "STAINED_CLAY"
+    ]
+  },
+  {
+    "legacyId": 160,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "STAINED_GLASS_PANE"
+    ]
+  },
+  {
+    "legacyId": 161,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "LEAVES_2"
+    ]
+  },
+  {
+    "legacyId": 162,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "LOG_2"
+    ]
+  },
+  {
+    "legacyId": 163,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "ACACIA_STAIRS"
+    ]
+  },
+  {
+    "legacyId": 164,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "DARK_OAK_STAIRS"
+    ]
+  },
+  {
+    "legacyId": 165,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "SLIME_BLOCK"
+    ]
+  },
+  {
+    "legacyId": 166,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "BARRIER"
+    ]
+  },
+  {
+    "legacyId": 167,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "IRON_TRAPDOOR"
+    ]
+  },
+  {
+    "legacyId": 168,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "PRISMARINE"
+    ]
+  },
+  {
+    "legacyId": 169,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "SEA_LANTERN"
+    ]
+  },
+  {
+    "legacyId": 170,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "HAY_BLOCK"
+    ]
+  },
+  {
+    "legacyId": 171,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "CARPET"
+    ]
+  },
+  {
+    "legacyId": 172,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "HARD_CLAY"
+    ]
+  },
+  {
+    "legacyId": 173,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "COAL_BLOCK"
+    ]
+  },
+  {
+    "legacyId": 174,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "PACKED_ICE"
+    ]
+  },
+  {
+    "legacyId": 175,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "DOUBLE_PLANT"
+    ]
+  },
+  {
+    "legacyId": 176,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "STANDING_BANNER"
+    ]
+  },
+  {
+    "legacyId": 177,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "WALL_BANNER"
+    ]
+  },
+  {
+    "legacyId": 178,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "DAYLIGHT_DETECTOR_INVERTED"
+    ]
+  },
+  {
+    "legacyId": 179,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "RED_SANDSTONE"
+    ]
+  },
+  {
+    "legacyId": 180,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "RED_SANDSTONE_STAIRS"
+    ]
+  },
+  {
+    "legacyId": 181,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "DOUBLE_STONE_SLAB2"
+    ]
+  },
+  {
+    "legacyId": 182,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "STONE_SLAB2"
+    ]
+  },
+  {
+    "legacyId": 183,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "SPRUCE_FENCE_GATE"
+    ]
+  },
+  {
+    "legacyId": 184,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "BIRCH_FENCE_GATE"
+    ]
+  },
+  {
+    "legacyId": 185,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "JUNGLE_FENCE_GATE"
+    ]
+  },
+  {
+    "legacyId": 186,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "DARK_OAK_FENCE_GATE"
+    ]
+  },
+  {
+    "legacyId": 187,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "ACACIA_FENCE_GATE"
+    ]
+  },
+  {
+    "legacyId": 188,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "SPRUCE_FENCE"
+    ]
+  },
+  {
+    "legacyId": 189,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "BIRCH_FENCE"
+    ]
+  },
+  {
+    "legacyId": 190,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "JUNGLE_FENCE"
+    ]
+  },
+  {
+    "legacyId": 191,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "DARK_OAK_FENCE"
+    ]
+  },
+  {
+    "legacyId": 192,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "ACACIA_FENCE"
+    ]
+  },
+  {
+    "legacyId": 193,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "SPRUCE_DOOR"
+    ]
+  },
+  {
+    "legacyId": 194,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "BIRCH_DOOR"
+    ]
+  },
+  {
+    "legacyId": 195,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "JUNGLE_DOOR"
+    ]
+  },
+  {
+    "legacyId": 196,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "ACACIA_DOOR"
+    ]
+  },
+  {
+    "legacyId": 197,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "DARK_OAK_DOOR"
+    ]
+  },
+  {
+    "legacyId": 256,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "IRON_SPADE"
+    ]
+  },
+  {
+    "legacyId": 257,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "IRON_PICKAXE"
+    ]
+  },
+  {
+    "legacyId": 258,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "IRON_AXE"
+    ]
+  },
+  {
+    "legacyId": 259,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "FLINT_AND_STEEL"
+    ]
+  },
+  {
+    "legacyId": 260,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "APPLE"
+    ]
+  },
+  {
+    "legacyId": 261,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "BOW"
+    ]
+  },
+  {
+    "legacyId": 262,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "ARROW"
+    ]
+  },
+  {
+    "legacyId": 263,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "COAL"
+    ]
+  },
+  {
+    "legacyId": 264,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "DIAMOND"
+    ]
+  },
+  {
+    "legacyId": 265,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "IRON_INGOT"
+    ]
+  },
+  {
+    "legacyId": 266,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "GOLD_INGOT"
+    ]
+  },
+  {
+    "legacyId": 267,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "IRON_SWORD"
+    ]
+  },
+  {
+    "legacyId": 268,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "WOOD_SWORD"
+    ]
+  },
+  {
+    "legacyId": 269,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "WOOD_SPADE"
+    ]
+  },
+  {
+    "legacyId": 270,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "WOOD_PICKAXE"
+    ]
+  },
+  {
+    "legacyId": 271,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "WOOD_AXE"
+    ]
+  },
+  {
+    "legacyId": 272,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "STONE_SWORD"
+    ]
+  },
+  {
+    "legacyId": 273,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "STONE_SPADE"
+    ]
+  },
+  {
+    "legacyId": 274,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "STONE_PICKAXE"
+    ]
+  },
+  {
+    "legacyId": 275,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "STONE_AXE"
+    ]
+  },
+  {
+    "legacyId": 276,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "DIAMOND_SWORD"
+    ]
+  },
+  {
+    "legacyId": 277,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "DIAMOND_SPADE"
+    ]
+  },
+  {
+    "legacyId": 278,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "DIAMOND_PICKAXE"
+    ]
+  },
+  {
+    "legacyId": 279,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "DIAMOND_AXE"
+    ]
+  },
+  {
+    "legacyId": 280,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "STICK"
+    ]
+  },
+  {
+    "legacyId": 281,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "BOWL"
+    ]
+  },
+  {
+    "legacyId": 282,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "MUSHROOM_SOUP"
+    ]
+  },
+  {
+    "legacyId": 283,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "GOLD_SWORD"
+    ]
+  },
+  {
+    "legacyId": 284,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "GOLD_SPADE"
+    ]
+  },
+  {
+    "legacyId": 285,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "GOLD_PICKAXE"
+    ]
+  },
+  {
+    "legacyId": 286,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "GOLD_AXE"
+    ]
+  },
+  {
+    "legacyId": 287,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "STRING"
+    ]
+  },
+  {
+    "legacyId": 288,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "FEATHER"
+    ]
+  },
+  {
+    "legacyId": 289,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "SULPHUR"
+    ]
+  },
+  {
+    "legacyId": 290,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "WOOD_HOE"
+    ]
+  },
+  {
+    "legacyId": 291,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "STONE_HOE"
+    ]
+  },
+  {
+    "legacyId": 292,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "IRON_HOE"
+    ]
+  },
+  {
+    "legacyId": 293,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "DIAMOND_HOE"
+    ]
+  },
+  {
+    "legacyId": 294,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "GOLD_HOE"
+    ]
+  },
+  {
+    "legacyId": 295,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "SEEDS"
+    ]
+  },
+  {
+    "legacyId": 296,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "WHEAT"
+    ]
+  },
+  {
+    "legacyId": 297,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "BREAD"
+    ]
+  },
+  {
+    "legacyId": 298,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "LEATHER_HELMET"
+    ]
+  },
+  {
+    "legacyId": 299,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "LEATHER_CHESTPLATE"
+    ]
+  },
+  {
+    "legacyId": 300,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "LEATHER_LEGGINGS"
+    ]
+  },
+  {
+    "legacyId": 301,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "LEATHER_BOOTS"
+    ]
+  },
+  {
+    "legacyId": 302,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "CHAINMAIL_HELMET"
+    ]
+  },
+  {
+    "legacyId": 303,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "CHAINMAIL_CHESTPLATE"
+    ]
+  },
+  {
+    "legacyId": 304,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "CHAINMAIL_LEGGINGS"
+    ]
+  },
+  {
+    "legacyId": 305,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "CHAINMAIL_BOOTS"
+    ]
+  },
+  {
+    "legacyId": 306,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "IRON_HELMET"
+    ]
+  },
+  {
+    "legacyId": 307,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "IRON_CHESTPLATE"
+    ]
+  },
+  {
+    "legacyId": 308,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "IRON_LEGGINGS"
+    ]
+  },
+  {
+    "legacyId": 309,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "IRON_BOOTS"
+    ]
+  },
+  {
+    "legacyId": 310,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "DIAMOND_HELMET"
+    ]
+  },
+  {
+    "legacyId": 311,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "DIAMOND_CHESTPLATE"
+    ]
+  },
+  {
+    "legacyId": 312,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "DIAMOND_LEGGINGS"
+    ]
+  },
+  {
+    "legacyId": 313,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "DIAMOND_BOOTS"
+    ]
+  },
+  {
+    "legacyId": 314,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "GOLD_HELMET"
+    ]
+  },
+  {
+    "legacyId": 315,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "GOLD_CHESTPLATE"
+    ]
+  },
+  {
+    "legacyId": 316,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "GOLD_LEGGINGS"
+    ]
+  },
+  {
+    "legacyId": 317,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "GOLD_BOOTS"
+    ]
+  },
+  {
+    "legacyId": 318,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "FLINT"
+    ]
+  },
+  {
+    "legacyId": 319,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "PORK"
+    ]
+  },
+  {
+    "legacyId": 320,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "GRILLED_PORK"
+    ]
+  },
+  {
+    "legacyId": 321,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "PAINTING"
+    ]
+  },
+  {
+    "legacyId": 322,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "GOLDEN_APPLE"
+    ]
+  },
+  {
+    "legacyId": 323,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "SIGN"
+    ]
+  },
+  {
+    "legacyId": 324,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "WOOD_DOOR"
+    ]
+  },
+  {
+    "legacyId": 325,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "BUCKET"
+    ]
+  },
+  {
+    "legacyId": 326,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "WATER_BUCKET"
+    ]
+  },
+  {
+    "legacyId": 327,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "LAVA_BUCKET"
+    ]
+  },
+  {
+    "legacyId": 328,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "MINECART"
+    ]
+  },
+  {
+    "legacyId": 329,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "SADDLE"
+    ]
+  },
+  {
+    "legacyId": 330,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "IRON_DOOR"
+    ]
+  },
+  {
+    "legacyId": 331,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "REDSTONE"
+    ]
+  },
+  {
+    "legacyId": 332,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "SNOW_BALL"
+    ]
+  },
+  {
+    "legacyId": 333,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "BOAT"
+    ]
+  },
+  {
+    "legacyId": 334,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "LEATHER"
+    ]
+  },
+  {
+    "legacyId": 335,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "MILK_BUCKET"
+    ]
+  },
+  {
+    "legacyId": 336,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "CLAY_BRICK"
+    ]
+  },
+  {
+    "legacyId": 337,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "CLAY_BALL"
+    ]
+  },
+  {
+    "legacyId": 338,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "SUGAR_CANE"
+    ]
+  },
+  {
+    "legacyId": 339,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "PAPER"
+    ]
+  },
+  {
+    "legacyId": 340,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "BOOK"
+    ]
+  },
+  {
+    "legacyId": 341,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "SLIME_BALL"
+    ]
+  },
+  {
+    "legacyId": 342,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "STORAGE_MINECART"
+    ]
+  },
+  {
+    "legacyId": 343,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "POWERED_MINECART"
+    ]
+  },
+  {
+    "legacyId": 344,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "EGG"
+    ]
+  },
+  {
+    "legacyId": 345,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "COMPASS"
+    ]
+  },
+  {
+    "legacyId": 346,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "FISHING_ROD"
+    ]
+  },
+  {
+    "legacyId": 347,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "WATCH"
+    ]
+  },
+  {
+    "legacyId": 348,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "GLOWSTONE_DUST"
+    ]
+  },
+  {
+    "legacyId": 349,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "RAW_FISH"
+    ]
+  },
+  {
+    "legacyId": 350,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "COOKED_FISH"
+    ]
+  },
+  {
+    "legacyId": 351,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "INK_SACK"
+    ]
+  },
+  {
+    "legacyId": 352,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "BONE"
+    ]
+  },
+  {
+    "legacyId": 353,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "SUGAR"
+    ]
+  },
+  {
+    "legacyId": 354,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "CAKE"
+    ]
+  },
+  {
+    "legacyId": 355,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "BED"
+    ]
+  },
+  {
+    "legacyId": 356,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "DIODE"
+    ]
+  },
+  {
+    "legacyId": 357,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "COOKIE"
+    ]
+  },
+  {
+    "legacyId": 358,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "MAP"
+    ]
+  },
+  {
+    "legacyId": 359,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "SHEARS"
+    ]
+  },
+  {
+    "legacyId": 360,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "MELON"
+    ]
+  },
+  {
+    "legacyId": 361,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "PUMPKIN_SEEDS"
+    ]
+  },
+  {
+    "legacyId": 362,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "MELON_SEEDS"
+    ]
+  },
+  {
+    "legacyId": 363,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "RAW_BEEF"
+    ]
+  },
+  {
+    "legacyId": 364,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "COOKED_BEEF"
+    ]
+  },
+  {
+    "legacyId": 365,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "RAW_CHICKEN"
+    ]
+  },
+  {
+    "legacyId": 366,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "COOKED_CHICKEN"
+    ]
+  },
+  {
+    "legacyId": 367,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "ROTTEN_FLESH"
+    ]
+  },
+  {
+    "legacyId": 368,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "ENDER_PEARL"
+    ]
+  },
+  {
+    "legacyId": 369,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "BLAZE_ROD"
+    ]
+  },
+  {
+    "legacyId": 370,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "GHAST_TEAR"
+    ]
+  },
+  {
+    "legacyId": 371,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "GOLD_NUGGET"
+    ]
+  },
+  {
+    "legacyId": 372,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "NETHER_STALK"
+    ]
+  },
+  {
+    "legacyId": 373,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "POTION"
+    ]
+  },
+  {
+    "legacyId": 374,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "GLASS_BOTTLE"
+    ]
+  },
+  {
+    "legacyId": 375,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "SPIDER_EYE"
+    ]
+  },
+  {
+    "legacyId": 376,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "FERMENTED_SPIDER_EYE"
+    ]
+  },
+  {
+    "legacyId": 377,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "BLAZE_POWDER"
+    ]
+  },
+  {
+    "legacyId": 378,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "MAGMA_CREAM"
+    ]
+  },
+  {
+    "legacyId": 379,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "BREWING_STAND_ITEM"
+    ]
+  },
+  {
+    "legacyId": 380,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "CAULDRON_ITEM"
+    ]
+  },
+  {
+    "legacyId": 381,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "EYE_OF_ENDER"
+    ]
+  },
+  {
+    "legacyId": 382,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "SPECKLED_MELON"
+    ]
+  },
+  {
+    "legacyId": 383,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "MONSTER_EGG"
+    ]
+  },
+  {
+    "legacyId": 384,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "EXP_BOTTLE"
+    ]
+  },
+  {
+    "legacyId": 385,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "FIREBALL"
+    ]
+  },
+  {
+    "legacyId": 386,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "BOOK_AND_QUILL"
+    ]
+  },
+  {
+    "legacyId": 387,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "WRITTEN_BOOK"
+    ]
+  },
+  {
+    "legacyId": 388,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "EMERALD"
+    ]
+  },
+  {
+    "legacyId": 389,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "ITEM_FRAME"
+    ]
+  },
+  {
+    "legacyId": 390,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "FLOWER_POT_ITEM"
+    ]
+  },
+  {
+    "legacyId": 391,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "CARROT_ITEM"
+    ]
+  },
+  {
+    "legacyId": 392,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "POTATO_ITEM"
+    ]
+  },
+  {
+    "legacyId": 393,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "BAKED_POTATO"
+    ]
+  },
+  {
+    "legacyId": 394,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "POISONOUS_POTATO"
+    ]
+  },
+  {
+    "legacyId": 395,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "EMPTY_MAP"
+    ]
+  },
+  {
+    "legacyId": 396,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "GOLDEN_CARROT"
+    ]
+  },
+  {
+    "legacyId": 397,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "SKULL_ITEM"
+    ]
+  },
+  {
+    "legacyId": 398,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "CARROT_STICK"
+    ]
+  },
+  {
+    "legacyId": 399,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "NETHER_STAR"
+    ]
+  },
+  {
+    "legacyId": 400,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "PUMPKIN_PIE"
+    ]
+  },
+  {
+    "legacyId": 401,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "FIREWORK"
+    ]
+  },
+  {
+    "legacyId": 402,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "FIREWORK_CHARGE"
+    ]
+  },
+  {
+    "legacyId": 403,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "ENCHANTED_BOOK"
+    ]
+  },
+  {
+    "legacyId": 404,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "REDSTONE_COMPARATOR"
+    ]
+  },
+  {
+    "legacyId": 405,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "NETHER_BRICK_ITEM"
+    ]
+  },
+  {
+    "legacyId": 406,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "QUARTZ"
+    ]
+  },
+  {
+    "legacyId": 407,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "EXPLOSIVE_MINECART"
+    ]
+  },
+  {
+    "legacyId": 408,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "HOPPER_MINECART"
+    ]
+  },
+  {
+    "legacyId": 409,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "PRISMARINE_SHARD"
+    ]
+  },
+  {
+    "legacyId": 410,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "PRISMARINE_CRYSTALS"
+    ]
+  },
+  {
+    "legacyId": 411,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "RABBIT"
+    ]
+  },
+  {
+    "legacyId": 412,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "COOKED_RABBIT"
+    ]
+  },
+  {
+    "legacyId": 413,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "RABBIT_STEW"
+    ]
+  },
+  {
+    "legacyId": 414,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "RABBIT_FOOT"
+    ]
+  },
+  {
+    "legacyId": 415,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "RABBIT_HIDE"
+    ]
+  },
+  {
+    "legacyId": 416,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "ARMOR_STAND"
+    ]
+  },
+  {
+    "legacyId": 417,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "IRON_BARDING"
+    ]
+  },
+  {
+    "legacyId": 418,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "GOLD_BARDING"
+    ]
+  },
+  {
+    "legacyId": 419,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "DIAMOND_BARDING"
+    ]
+  },
+  {
+    "legacyId": 420,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "LEASH"
+    ]
+  },
+  {
+    "legacyId": 421,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "NAME_TAG"
+    ]
+  },
+  {
+    "legacyId": 422,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "COMMAND_MINECART"
+    ]
+  },
+  {
+    "legacyId": 423,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "MUTTON"
+    ]
+  },
+  {
+    "legacyId": 424,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "COOKED_MUTTON"
+    ]
+  },
+  {
+    "legacyId": 425,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "BANNER"
+    ]
+  },
+  {
+    "legacyId": 427,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "SPRUCE_DOOR_ITEM"
+    ]
+  },
+  {
+    "legacyId": 428,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "BIRCH_DOOR_ITEM"
+    ]
+  },
+  {
+    "legacyId": 429,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "JUNGLE_DOOR_ITEM"
+    ]
+  },
+  {
+    "legacyId": 430,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "ACACIA_DOOR_ITEM"
+    ]
+  },
+  {
+    "legacyId": 431,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "DARK_OAK_DOOR_ITEM"
+    ]
+  },
+  {
+    "legacyId": 2256,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "GOLD_RECORD"
+    ]
+  },
+  {
+    "legacyId": 2257,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "GREEN_RECORD"
+    ]
+  },
+  {
+    "legacyId": 2258,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "RECORD_3"
+    ]
+  },
+  {
+    "legacyId": 2259,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "RECORD_4"
+    ]
+  },
+  {
+    "legacyId": 2260,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "RECORD_5"
+    ]
+  },
+  {
+    "legacyId": 2261,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "RECORD_6"
+    ]
+  },
+  {
+    "legacyId": 2262,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "RECORD_7"
+    ]
+  },
+  {
+    "legacyId": 2263,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "RECORD_8"
+    ]
+  },
+  {
+    "legacyId": 2264,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "RECORD_9"
+    ]
+  },
+  {
+    "legacyId": 2265,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "RECORD_10"
+    ]
+  },
+  {
+    "legacyId": 2266,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "RECORD_11"
+    ]
+  },
+  {
+    "legacyId": 2267,
+    "legacyData": 0,
+    "aliases": [],
+    "materials": [
+      "RECORD_12"
+    ]
+  }
+]
