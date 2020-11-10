@@ -10,8 +10,11 @@ import java.io.InputStreamReader
 import java.util.function.Supplier
 
 
-class UniversalItems(private val plugin: Plugin, val itemListOverride: Supplier<List<ItemConfigEntry>>?) {
-    constructor(plugin: Plugin) : this(plugin, null)
+class UniversalItems @JvmOverloads constructor(
+    private val plugin: Plugin,
+    private val itemListOverride: Supplier<List<ItemConfigEntry>>? = null
+) {
+
 
     private val logger = plugin.logger
 
@@ -74,9 +77,10 @@ class UniversalItems(private val plugin: Plugin, val itemListOverride: Supplier<
     }
 
 
+    @Suppress("UNUSED")
     fun getItem(name: String) = getItemSupplier(name)?.get()
 
-    fun getItemSupplier(name: String): Supplier<ItemStack>? {
+    private fun getItemSupplier(name: String): Supplier<ItemStack>? {
         val matString = name.trim()
         return when {
             itemIdPattern.matches(matString) -> {

@@ -1,7 +1,7 @@
 plugins {
     java
     maven
-    kotlin("jvm") version "1.3.71"
+    kotlin("jvm") version "1.4.10"
 }
 
 group = "de.phyrone"
@@ -15,9 +15,9 @@ repositories {
 
 dependencies {
     implementation(kotlin("stdlib-jdk8"))
-    testCompile("junit", "junit", "4.12")
+    testImplementation("junit", "junit", "4.12")
     compileOnly("org.spigotmc:spigot-api:1.15.2-R0.1-SNAPSHOT")
-    testCompile("org.spigotmc:spigot-api:1.8.8-R0.1-SNAPSHOT")
+    testImplementation("org.spigotmc:spigot-api:1.8.8-R0.1-SNAPSHOT")
 }
 
 configure<JavaPluginConvention> {
