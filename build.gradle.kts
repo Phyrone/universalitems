@@ -1,7 +1,7 @@
 plugins {
     java
     maven
-    kotlin("jvm") version "1.4.10"
+    kotlin("jvm") version "1.7.10"
 }
 
 group = "de.phyrone"
